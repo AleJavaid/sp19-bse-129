@@ -1,0 +1,109 @@
+body{
+
+    background-color: burlywood;
+    
+
+}
+.header{
+
+    padding-left: 300px;
+    
+}
+
+.block {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: lightgray;
+    border: 2px solid rgb(206, 150, 47);
+  }
+  
+  .container {
+    text-align: center;
+    width: 50%;
+  }
+  
+  .block img {
+   width: 165px;
+   height: 136px;
+  }
+.footer-end{
+  
+    font-size: 15px;
+    color:black;
+    text-align: right;
+    bottom: 0px;
+    width: 96%;
+    margin: auto;
+    padding-top: 260px;
+}
+.googlefooter {
+   
+    bottom: 0px;
+    width: 100%;
+}
+.carousel-inner{
+     height: 500px;
+}
+
+.item, img{
+    height: 551px;
+}
+.crs{
+    height: 500px;
+}
+.recent{
+
+    text-align: center;
+    padding: 30px;
+}
+.design{
+   padding-left: 896px;  
+ }
+ .design2{
+     
+    margin-top: -624px;
+    padding-left: 478px;
+
+  }
+  .design3{
+     
+    margin-top: -599px;
+    padding-left: 48px;
+
+  }
+.card{
+    box-shadow: 18px 14px 16px rgba(100,0,0,0.5);
+    width:350px;
+    height:600px;
+    margin:auto;
+    border:10px;
+    border-radius:75px;
+    background-color:rgba(100,72,74,0.29);
+    display: inline-block;
+
+    
+  }
+  .product-title{
+    font-size:40px;
+    font-weight:bold;
+    text-align:center;
+    text-shadow:.06em .06em 0 #fff,.08em .08em 0 #aaa;
+    font-family: 'Tangerine', serif;
+  }
+  .card-img{
+    max-width:350px;
+    height:auto;
+    border-radius:2px;
+    
+  }
+  .info{
+   
+    display:block;
+    text-align:center;
+  }
+  
+  
+ 
+ 
+
